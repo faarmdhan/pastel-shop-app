@@ -1,17 +1,24 @@
-# flutter_application_1
+# Tugas Pemrograman Mobile - Pastel Shop App
 
-A new Flutter project.
+Aplikasi e-commerce mobile bertema warna pastel yang dibangun menggunakan Flutter dan terintegrasi dengan DummyJSON API.
 
-## Getting Started
+## 📱 Fitur Aplikasi
+* **Tema Warna Pastel:** Tampilan antarmuka yang lembut dan menarik khusus untuk handphone.
+* **Daftar Produk:** Mengambil data produk secara otomatis dari `https://dummyjson.com/products`.
+* **Fitur Pencarian (Search):** Mencari produk secara real-time berdasarkan kata kunci.
+* **Halaman Detail Produk:** Menampilkan informasi lengkap (harga, deskripsi, rating, dan stok) berdasarkan ID produk.
 
-This project is a starting point for a Flutter application.
+## 🎥 Link Video Demo YouTube
+Wajah terlihat dalam video demo[cite: 1]:
+👉 [Tonton Video Demo Aplikasi di YouTube](https://youtu.be/vwOALp1gZLU)
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Teknologi yang Digunakan
+* Flutter & Dart[cite: 1]
+* Visual Studio Code
+* HTTP Package
+* DummyJSON API
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 👤 Identitas Pengguna
+* **Nama:** [Rafa Anhar Ramadhan]
+* **NIM:** [240102102]
+* **Kelas:** [IF24B]
